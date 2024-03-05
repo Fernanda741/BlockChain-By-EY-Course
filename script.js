@@ -490,7 +490,7 @@ async function main() {
            console.log(tx);
         } 
 
-        chamaTransfer("0x03C633143b3fdD5a64F99777027d67D4a79DEbC9", 50)
+        chamaTransfer("0x043b87D84c3946497912e7cCDd43e8b7739a2b14", 50)
 
     } catch (error) {
         console.error('Erro ao conectar à carteira:', error);
